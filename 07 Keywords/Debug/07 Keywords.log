@@ -1,0 +1,16 @@
+﻿  07 Keywords.cpp
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(88): error C2374: 'choice': redefinition; multiple initialization
+  c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(85): note: see declaration of 'choice'
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(89): error C2374: 'theWord': redefinition; multiple initialization
+  c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(86): note: see declaration of 'theWord'
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(89): error C2088: '[': illegal for class
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(107): error C2088: '<<': illegal for class
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(120): error C2088: '!=': illegal for class
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(127): error C2088: '==': illegal for class
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(130): error C2088: '<<': illegal for class
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(131): error C3867: 'std::vector<std::string,std::allocator<_Ty>>::erase': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=std::string
+          ]
+c:\users\glory\documents\visual studio 2015\projects\07 keywords\07 keywords\07 keywords.cpp(131): error C2109: subscript requires array or pointer type
